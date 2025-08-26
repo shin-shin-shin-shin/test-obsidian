@@ -1,2 +1,30 @@
-# test-obsidian
-Test repository for Obsidian integration
+# Test Obsidian Project
+
+このプロジェクトはObsidianとGitHubの連携をテストするためのリポジトリです。
+
+## 概要
+
+- Obsidianノート管理システムのテスト
+- GitHubとの同期機能の確認
+- マークダウンファイルの管理
+
+## 使用方法
+
+1. Obsidianでこのリポジトリを開く
+2. ノートを作成・編集する
+3. GitHubに変更をpushする
+
+## 機能
+
+- マークダウン形式でのノート作成
+- リンク機能によるノート間の関連付け
+- タグ機能による分類
+- 検索機能
+
+## 作成日時
+
+2025年8月26日
+
+---
+
+*このREADME.mdファイルはGitHub MCPサーバーを使用して作成・更新されました。*
